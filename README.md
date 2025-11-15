@@ -14,7 +14,7 @@
 ✔ Final Results
 ✔ Conclusion
 
-🎤 PRESENTATION-READY FULL PROJECT EXPLANATION
+
 1. Introduction
 
 This project focuses on building a fully automated, secure, and fault-tolerant infrastructure using Infrastructure-as-Code to deploy a complete networked application environment.
